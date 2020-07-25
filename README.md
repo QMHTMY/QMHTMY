@@ -14,10 +14,8 @@ Here are some ideas to get you started:
 -->
 
 <center>
-    <h1>Shieber</h1>
+    <h1>Hello, world! 🌍</h1>
 </center>
-
-## Hello, world! 🌍
 
 ## Profile 
 
@@ -32,7 +30,7 @@ Here are some ideas to get you started:
 * Doc: Tex, md, asciidoc, rst
 * Lang: Python, Go, shell, C, Rust, Dart.
 * Tool: docker, kubernets, MySQL, MongoDB, Redis
-* Framework: Scrapy, Django, (Prepare to learn Gin, Flatter)
+* Framework: Scrapy, Django, (Prepare to learn Gin, Colly, Flatter)
 
 ## Social accounts
 * Blog: <a href="https://www.shieber.cn" target="_blank">Shieber's Blog</a>
