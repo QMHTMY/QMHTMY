@@ -21,16 +21,16 @@ Here are some ideas to get you started:
 
 * Horoscope：Capricorn♑ &emsp;&emsp;&emsp;&emsp;&emsp; Age：25  
 * Tel：18381373030  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp; Email：QMH_XB_FLTMY@yahoo.com 
-* City: Chengdu, Sichuan, 🇨🇳.  &emsp;&emsp;&emsp;&ensp;&ensp; Marital status：single dog 🐶
+* City: Chengdu, Szechwan, 🇨🇳.  &emsp;&emsp;&ensp;&ensp; Marital status：Single 🐶
 
 ## Tech stack
 
-* OS:Linux only，
+* OS: Linux
 * Editor: Vim
 * Doc: Tex, md, asciidoc, rst
-* Lang: Python, Go, shell, C, Rust, Dart.
-* Tool: docker, kubernets, MySQL, MongoDB, Redis
-* Framework: Scrapy, Django, (Prepare to learn Gin, Colly, Flatter)
+* Area: ML, web, spider, search
+* Lang: Python, Go, shell, C, Rust, Dart
+* Tool: docker, kubernets, MySQL, MongoDB, Redis, Elasticsearch
 
 ## Social accounts
 * Blog: <a href="https://www.shieber.cn" target="_blank">Shieber's Blog</a>
