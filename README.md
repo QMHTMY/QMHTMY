@@ -26,19 +26,18 @@ Here are some ideas to get you started:
 ## Tech stack
 
 * OS: Linux
-* Editor: Vim
-* Doc: Tex, md, asciidoc, rst
-* Area: ML, web, spider, search
-* Lang: Python, Go, shell, C, Rust, Dart
-* Tool: docker, kubernets, MySQL, MongoDB, Redis, Elasticsearch
+* Editor: vim
+* Doc: tex, md, asciidoc, rst
+* Area: OS, ML, Web, Spider, Search
+* Lang: Python, Go, C, shell, Rust, Dart
+* Tool: Docker, Kubernets, MySQL, MongoDB, Redis, Elasticsearch
 
 ## Social accounts
 * Blog: <a href="https://www.shieber.cn" target="_blank">Shieber's Blog</a>
-* gitee: <a href="https://gitee.com/QMHTMY/" target="_blank">Gitee Shieber</a>
-* github: <a href="https://github.com/QMHTMY/" target="_blank">Github Shieber</a>
+* Gitee: <a href="https://gitee.com/QMHTMY/" target="_blank">Shieber's Gitee</a>
 
 ## Other
-* Reading book
-* Sichuan Cusine
+* Reading
+* Szechwan cuisine
 * Japanese culture & food
-* Chinese Traditional Characters
+* Traditional Chinese Character
