@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 -->
 
 <center>
-    <h1>Hello, world! 🌍</h1>
+    <h1>Hello, world! 🌍   <br> 
+        Salut, le monde! 🌍 <br> 
+        こんにちは、世界! 🌍
+    </h1>
 </center>
 
 ## Profile 
