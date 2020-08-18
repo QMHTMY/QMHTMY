@@ -35,10 +35,6 @@ Here are some ideas to get you started:
 * Lang: Python, Go, C, shell, Rust, Dart
 * Tool: Docker, Kubernets, MySQL, MongoDB, Redis, Elasticsearch
 
-## Social accounts
-* Blog: <a href="https://www.shieber.cn" target="_blank">Shieber's Blog</a>
-* Gitee: <a href="https://gitee.com/QMHTMY/" target="_blank">Shieber's Gitee</a>
-
 ## Other
 * Reading
 * Szechwan cuisine
