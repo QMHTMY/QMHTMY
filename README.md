@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 * Doc: tex, md, asciidoc, rst
 * Area: OS, ML, Web, Spider, Search
 * Lang: Python, Go, C, shell, Rust, Dart
-* Tool: Docker, Kubernets, MySQL, MongoDB, Redis, Elasticsearch
+* Tool: Docker, Kubernets, MySQL, Redis, TiDB, Elasticsearch
 
 ## Other
 * Reading
