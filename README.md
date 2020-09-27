@@ -22,18 +22,18 @@ Here are some ideas to get you started:
 
 ## Profile 
 
-* Name：Shieber  &ensp;&ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Age：25  
-* Horoscope：Capricorn♑ &ensp;&emsp;&emsp;&emsp;&ensp;&ensp; Email：QMH_XB_FLTMY@yahoo.com 
-* City: Chengdu, Szechwan, 🇨🇳.  &emsp;&emsp;&ensp;&ensp; Marital status：Single 🐶
+* Name：Shieber  &ensp;&ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Age：25
+* Horoscope：Capricorn♑ &emsp;&emsp;&emsp;&emsp;&ensp;&ensp; Marital status：Single 🐶
+* City: Chengdu, Szechwan, 🇨🇳.  &emsp;&emsp;&ensp;&ensp; Email：QMH_XB_FLTMY@yahoo.com
 
 ## Tech stack
 
 * OS: Linux
 * Editor: vim
-* Doc: tex, md, asciidoc, rst
-* Area: OS, ML, Web, Spider, Search
-* Lang: Python, Go, C, shell, Rust, Dart
+* Docs: tex, markdown asciidoc, rst
+* Lang: Python, Go, Shell, Rust, C, Dart
 * Tool: Docker, Kubernets, MySQL, Redis, TiDB, Elasticsearch
+* Area: OS, ML, Web, Spider, Search, Server, Cloud/Edge Native, BlockChain
 
 ## Other
 * Reading
