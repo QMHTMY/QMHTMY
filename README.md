@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 * Editor: vim
 * Docs: tex, markdown asciidoc, rst
 * Lang: Python, Go, Shell, Rust, C, Dart
-* Tool: Docker, Kubernets, MySQL, Redis, TiDB, Elasticsearch
-* Area: OS, ML, Web, Spider, Search, Server, Cloud/Edge Native, BlockChain
+* Tool: Docker, Kubernets, MySQL, Redis, TiDB, Flink, Elasticsearch
+* Field: OS, ML, Web, Spider, Search, Server, Cloud/Edge Native, BlockChain
 
 ## Other
 * Reading
