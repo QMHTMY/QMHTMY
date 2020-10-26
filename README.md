@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 ## Profile 
 
 * Name：Shieber  &ensp;&ensp;&ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Age：25
-* Horoscope：Capricorn♑ &emsp;&emsp;&emsp;&emsp;&ensp;&ensp; Marital status：Single 🐶
-* City: Chengdu, Szechwan, 🇨🇳.  &emsp;&emsp;&ensp;&ensp; Email：QMH_XB_FLTMY@yahoo.com
+* Horoscope：Capricorn ♑ &emsp;&emsp;&emsp;&emsp;&ensp;&ensp; Marital status：Single 🐶
+* City: Chengdu Szechwan 🇨🇳  &emsp;&emsp;&emsp;&ensp;&ensp; Email：QMH_XB_FLTMY@yahoo.com
 
 ## Tech stack
 
