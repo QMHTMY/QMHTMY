@@ -30,13 +30,14 @@ Here are some ideas to get you started:
 
 * OS: Linux
 * Editor: vim
-* Doc: tex, markdown, asciidoc, rst, wiki
-* Lang: Go, Python, Rust, Shell, C, Dart
-* Tool: Docker, K8S, MySQL, Redis, TiDB, Flink, Elasticsearch
-* Field: OS, ML, Web, Search, Cloud/Edge Native, BlockChain
+* Docs: Tex, Markdown, Asciidoc, rst, Wiki
+* Langs: C, Go, Python, Rust, Shell, Dart
+* Tools: Docker, K8S, MySQL, Redis, TiDB
+* Fields: OS, Storage, Cloud/Edge Native, ML, Web, Search, BlockChain
 
 ## Other
 * Reading
 * Szechwan cuisine
 * Japanese culture & food
+* Traditional Chinese Medicine
 * Traditional Chinese Character
