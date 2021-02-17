@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 * OS: Linux
 * Editor: vim
 * Docs: Tex, Markdown, Asciidoc, rst, Wiki
-* Langs: C, Go, Python, Rust, Shell, Dart
+* Langs: Go, Python, Rust, Shell, C, Dart
 * Tools: Docker, K8S, MySQL, Redis, TiDB
 * Fields: OS, Storage, Cloud/Edge Native, ML, Web, Search, BlockChain
 
