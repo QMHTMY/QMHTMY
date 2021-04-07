@@ -23,21 +23,24 @@ Here are some ideas to get you started:
 ## Profile 
 
 * Name：Shieber  &ensp;&ensp;&ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Age：25
-* Horoscope：Capricorn ♑ &emsp;&emsp;&emsp;&emsp;&ensp;&ensp; Marital status：Single 🐶
+* Constellation：Capricornus ♑ &ensp;&emsp;&ensp;&ensp; Marital status：Single 🐶
 * City: Chengdu Szechwan 🇨🇳  &emsp;&emsp;&emsp;&ensp;&ensp; Email：QMH_XB_FLTMY@yahoo.com
 
 ## Tech stack
 
 * OS: Linux
-* Editor: vim
+* Editor: Vim
 * Docs: Tex, Markdown, Asciidoc, rst, Wiki
-* Langs: Go, Python, Rust, Shell, C, Dart
+* Langs: Go, Rust, Python, Shell, C, Dart
 * Tools: Docker, K8S, MySQL, Redis, TiDB
-* Fields: OS, Storage, Cloud/Edge Native, ML, Web, Search, BlockChain
+* Fields: OS, Storage, ML, Web, Search, BlockChain, Cloud/Edge Native, Quantum Computing
 
-## Other
+## Hobbies 
+
 * Reading
+* Writing
 * Szechwan cuisine
-* Japanese culture & food
+* Japanese culture & cuisine
+* Français culture & la cuisine
 * Traditional Chinese Medicine
 * Traditional Chinese Character
