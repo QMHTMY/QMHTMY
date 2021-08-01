@@ -29,18 +29,17 @@ Here are some ideas to get you started:
 ## Tech stack
 
 * OS: Linux
-* Editor: Vim
-* Docs: Tex, Markdown, Asciidoc, rst, Wiki
-* Langs: Go, Rust, Python, Shell, C, Dart
-* Tools: Docker, K8S, MySQL, Redis, TiDB
-* Fields: OS, Storage, ML, Web, Search, BlockChain, Cloud/Edge Native, Quantum Computing
+* Editor: Vim, idea
+* Langs: Java, Go, Rust, Python, Shell, Dart
+* Docs: Tex, Markdown, reStructuredText, Asciidoc
+* Frame: SpringBoot, Gin, Actix-web
+* Tool: Docker, K8S, MySQL, Redis, TiDB
+* Field: OS, Storage, Search, Web, BlockChain, Cloud/Edge Native, Quantum Computing
 
 ## Hobbies 
 
-* Reading
-* Writing
+* Reading, Writing
 * Szechwan cuisine
 * Japanese culture & cuisine
 * Français culture & la cuisine
-* Traditional Chinese Medicine
-* Traditional Chinese Character
+* Traditional Chinese Medicine & Character
