@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 
 * OS: Linux
 * Editor: Vim, idea
-* Langs: Java, Go, Rust, Python, Shell, Dart
-* Docs: Tex, Markdown, reStructuredText, Asciidoc
 * Frame: SpringBoot, Gin, Actix-web
-* Tool: Docker, K8S, MySQL, Redis, TiDB
+* Langs: Java, Go, Rust, Python, Shell, Dart
+* Tools: Docker, K8S, MySQL, Redis, TiDB
+* Docs: Tex, Markdown, reStructuredText, Asciidoc
 * Field: OS, Storage, Search, Web, BlockChain, Cloud/Edge Native, Quantum Computing
 
 ## Hobbies 
