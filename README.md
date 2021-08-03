@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <table width="100%">
     <tr>
         <td><img src="https://github-readme-stats.vercel.app/api?username=QMHTMY&show_icons=true&hide_border=true" /></td>
-        <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QMHTMY&layout=compact&text_color=daf7dc&bg_color=151515" /></td>
+        <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QMHTMY&layout=compact&hide_border=true" /></td>
     </tr>
 </table>
 
