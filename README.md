@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## Profile 
 
-* Name：Shieber  &ensp;&ensp;&ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Age：25
+* Name：Shieber  &ensp;&ensp;&ensp;&ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Age：25
 * Constellation：Capricornus ♑ &ensp;&emsp;&ensp;&ensp; Marital status：Single 🐶
 * City: Chengdu Szechwan 🇨🇳  &emsp;&emsp;&emsp;&ensp;&ensp; Email：QMH_XB_FLTMY@yahoo.com
 
@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 
 * OS: Linux
 * Editor: Vim, idea
-* Frame: SpringBoot, Gin, Actix-web
-* Langs: Java, Go, Rust, Python, Shell, Dart
+* Frame: SpringBoot, Gin, Axum, Actix-web
+* Langs: Java, Go, Rust, Python, Dart, Shell
 * Tools: Docker, K8S, MySQL, Redis, TiDB
 * Docs: Tex, Markdown, reStructuredText, Asciidoc
 * Field: OS, Storage, Search, Web, BlockChain, Cloud/Edge Native, Quantum Computing
