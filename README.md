@@ -14,27 +14,24 @@ Here are some ideas to get you started:
 -->
 
 <center>
-    <h1>🌍Hello, world! <br> 
-        🌍Salut, le monde! <br> 
-        🌍こんにちは、世界!
+    <h1>🌍こんにちは, world! <br> 
     </h1>
 </center>
 
 ## Profile 
 
-* Name：Shieber  &ensp;&ensp;&ensp;&ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Age：25
-* Constellation：Capricornus ♑ &ensp;&emsp;&ensp;&ensp; Marital status：Single 🐶
-* City: Chengdu Szechwan 🇨🇳  &emsp;&emsp;&emsp;&ensp;&ensp; Email：QMH_XB_FLTMY@yahoo.com
+* Name：Shieber &ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Constellation：Capricornus ♑ 
+* Province: Szechwan 🇨🇳  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Email：QMH_XB_FLTMY@yahoo.com
 
 ## Tech stack
 
 * OS: Linux
 * Editor: Vim, idea
-* Frame: SpringBoot, Gin, Axum, Actix-web
+* Frame: SpringBoot, Gin, Axum
 * Langs: Java, Go, Rust, Python, Dart, Shell
-* Tools: Docker, K8S, MySQL, Redis, TiDB
+* Tools: Docker, Redis, MySQL, TiDB
 * Docs: Tex, Markdown, reStructuredText, Asciidoc
-* Field: OS, Storage, Search, Web, BlockChain, Cloud/Edge Native, Quantum Computing
+* Focus: OS, Storage, BlockChain, Cloud/Edge Native, Quantum Computing
 
 <table width="100%">
     <tr>
@@ -50,4 +47,4 @@ Here are some ideas to get you started:
 * Szechwan cuisine
 * Japanese culture & cuisine
 * Français culture & la cuisine
-* Traditional Chinese Medicine & Character
+* Traditional Chinese Medicine & Characters
