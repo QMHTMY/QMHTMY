@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 ## Profile 
 
-* Name：Shieber &ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Constellation：Capricornus ♑ 
-* Province: Szechwan 🇨🇳  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Email：QMH_XB_FLTMY@yahoo.com
+* Name：Shieber &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Constellation：Capricornus ♑ 
+* Province: Szechwan 🇨🇳  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Email：Shieber@aliyun.com
 
 ## Tech stack
 
@@ -33,13 +33,14 @@ Here are some ideas to get you started:
 * Docs: Tex, Markdown, reStructuredText, Asciidoc
 * Focus: OS, Storage, BlockChain, Cloud/Edge Native, Quantum Computing
 
+<!--
 <table width="100%">
     <tr>
         <td><img src="https://github-readme-stats.vercel.app/api?username=QMHTMY&show_icons=true&hide_border=true" /></td>
         <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QMHTMY&layout=compact&hide_border=true" /></td>
     </tr>
 </table>
-
+-->
 
 ## Hobbies 
 
