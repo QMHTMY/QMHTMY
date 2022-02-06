@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 * OS: Linux
 * Editor: Vim, idea
-* Frame: SpringBoot, Gin, Axum
+* Frame: SpringBoot, Gin
 * Langs: Java, Go, Rust, Python, Dart, Shell
 * Tools: Docker, Redis, MySQL, TiDB
 * Docs: Tex, Markdown, reStructuredText, Asciidoc
