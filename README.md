@@ -25,13 +25,13 @@ Here are some ideas to get you started:
 
 ## Tech stack
 
-* ![os](https://img.shields.io/badge/OS-Linux-blue)
-* ![editor](https://img.shields.io/badge/Editor-Vim%2FIdea-blue)
-* ![frame](https://img.shields.io/badge/Frame-SpringBoot%2FGin-blue)
-* ![tools](https://img.shields.io/badge/Tools-Docker%2FRedis%2FMySQL%2FTiDB-blue)
-* ![langs](https://img.shields.io/badge/Langs-Java%2FRust%2FGo%2FPython%2FDart%2FShell-blue)
-* ![docs](https://img.shields.io/badge/Docs-Tex%2FMarkDown%2FreStructuredText%2FAsciidoc-blue)
-* ![focus](https://img.shields.io/badge/Focus-OS%2FStorage%2FBlockChain%2FCloudNative%2FQuantumComputing-blue)
+* ![os](https://img.shields.io/badge/OS-Linux-informational)
+* ![editor](https://img.shields.io/badge/Editor-Vim%2FIdea-informational)
+* ![frame](https://img.shields.io/badge/Frame-SpringBoot%2FGin-informational)
+* ![tools](https://img.shields.io/badge/Tools-Docker%2FRedis%2FMySQL%2FTiDB-informational)
+* ![langs](https://img.shields.io/badge/Langs-Java%2FRust%2FGo%2FPython%2FDart%2FShell-informational)
+* ![docs](https://img.shields.io/badge/Docs-Tex%2FMarkDown%2FreStructuredText%2FAsciidoc-informational)
+* ![focus](https://img.shields.io/badge/Focus-OS%2FStorage%2FBlockChain%2FCloudNative%2FQuantumComputing-informational)
 
 <!--
 <table width="100%">
