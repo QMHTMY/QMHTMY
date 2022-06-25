@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <center>
-    <h1>🌍こんにちは, world! <br> 
+    <h1>🌍ハロー, world! <br> 
     </h1>
 </center>
 
