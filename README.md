@@ -11,6 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+* ![frame](https://img.shields.io/badge/Frame-SpringBoot%2FGin%2FPoem-informational)
+* ![tools](https://img.shields.io/badge/Tools-Docker%2FRedis%2FRocketMQ%2FMySQL%2FTiDB-informational)
 -->
 
 <center>
@@ -27,9 +29,7 @@ Here are some ideas to get you started:
 
 * ![os](https://img.shields.io/badge/OS-Linux-informational)
 * ![editor](https://img.shields.io/badge/Editor-Vim%2FNeovim%2FIdea-informational)
-* ![frame](https://img.shields.io/badge/Frame-SpringBoot%2FGin%2FPoem-informational)
 * ![langs](https://img.shields.io/badge/Langs-Rust%2FJava%2FGo%2FPython%2FDart%2FShell-informational)
-* ![tools](https://img.shields.io/badge/Tools-Docker%2FRedis%2FRocketMQ%2FMySQL%2FTiDB-informational)
 * ![docs](https://img.shields.io/badge/Docs-Tex%2FMarkDown%2FreStructuredText%2FAsciidoc-informational)
 * ![focus](https://img.shields.io/badge/Focus-OS%2FStorage%2FBlockChain%2FCloudNative%2FQuantumComputing-informational)
 
