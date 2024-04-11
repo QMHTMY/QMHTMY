@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 
 * ![os](https://img.shields.io/badge/OS-Linux-informational)
 * ![editor](https://img.shields.io/badge/Editor-Vim%2FNeovim%2FIdea-informational)
-* ![langs](https://img.shields.io/badge/Langs-Rust%2FJava%2FGo%2FPython%2FDart%2FShell-informational)
+* ![langs](https://img.shields.io/badge/Langs-Rust%2FJava%2FGo%2FPython%2FShell-informational)
 * ![docs](https://img.shields.io/badge/Docs-Tex%2FMarkDown%2FreStructuredText%2FAsciidoc-informational)
-* ![focus](https://img.shields.io/badge/Focus-OS%2FStorage%2FBlockChain%2FCloudNative%2FQuantumComputing-informational)
+* ![focus](https://img.shields.io/badge/Focus-OS%2FStorage%2FBlockChain%2FQuantumComputing-informational)
 
 <!--
 <table width="100%">
@@ -46,6 +46,5 @@ Here are some ideas to get you started:
 
 * Reading, Writing
 * Szechwan cuisine
-* Japanese culture & cuisine
-* Français culture & la cuisine
+* Français, Japanese culture & cuisine
 * Traditional Chinese Medicine & Characters
